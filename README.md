@@ -80,6 +80,7 @@ To help users gain a deeper understanding of the actual visual experience of peo
 <br><br>
 
 ### Dyslexia in Everyday Life
+![dyslexia life](https://github.com/user-attachments/assets/c7d478df-be97-4af4-9275-e5c04b7e514b)
 I wanted to show that the difficulties experienced by people with dyslexia are not limited to just reading text. I designed features that allow users to experience various everyday challenges that people with dyslexia face in their real lives, beyond reading books or text. These features were carefully created based on real experiences and cases of people with dyslexia, enabling users to gain a more comprehensive understanding of how dyslexia affects all aspects of daily life.
 <br><br>
 난독증 환자들이 경험하는 어려움이 단순히 글을 읽는 것에만 국한되지 않는다는 점을 보여주고자 했습니다. 독서나 글 읽기 외에도 실생활에서 난독증 환자들이 겪는 다양한 일상적 어려움을 사용자들이 체험할 수 있도록 구성했습니다. 이 기능들은 실제 난독증 환자 경험담과 사례를 바탕으로 세심하게 제작되었으며, 이를 통해 사용자들이 난독증이 일상생활 전반에 미치는 영향을 보다 포괄적으로 이해할 수 있게 했습니다.
